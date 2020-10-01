@@ -59,7 +59,7 @@
     "versionPublish": "4.7.7",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/profil-t.png",
-    "noImageResize": "",
+    "noImageResize": "true",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
