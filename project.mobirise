@@ -233,9 +233,9 @@
               },
               {
                 "tags": "Responsive",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2020-8-0-13-43-28-505701.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2020-9-0-20-45-44-947729.jpg",
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=KY7smt63GP0",
+                "videoUrl": "https://youtu.be/q_WLYysluh0",
                 "image": "@THEME_PATH@/components/_images/gallery/gallery06.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/gallery06.jpg",
                 "alt": "",
@@ -268,20 +268,20 @@
                 "title": "",
                 "customStyle1": "display-4",
                 "caption": "<b>BOLOGNA</b> I Travel Video",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2020-8-0-13-43-39-29730.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2020-9-0-21-8-56-322543.jpg",
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=ZA86FEK2d-o",
+                "videoUrl": "https://youtu.be/EKZ46WW-fZk",
                 "image": "@THEME_PATH@/components/_images/gallery/gallery05.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/gallery05.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-4",
                 "caption": "<b>DREAM</b> I Fashion Video",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -307,6 +307,19 @@
                 "title": "",
                 "customStyle1": "display-4",
                 "caption": "<b>THE LUXURY LIVING</b> I Product Video",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2020-9-0-0-20-53-649761.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/Nq2dWuhgpZM",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-4",
+                "caption": "<b>COPENHAGEN</b> I Travel Video",
                 "active": false
               }
             ]
